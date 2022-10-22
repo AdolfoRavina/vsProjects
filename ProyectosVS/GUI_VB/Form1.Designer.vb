@@ -59,4 +59,6 @@ Partial Class Form1
 
     Friend WithEvents Button1 As Button
     Friend WithEvents Button2 As Button
+
+    End Sub
 End Class
